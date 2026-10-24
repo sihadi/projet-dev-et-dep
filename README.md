@@ -43,4 +43,4 @@ sentiment-app/
 | Rôle | Nom | Identifiant GitHub | Travail de la semaine 1 |
 | --- | --- | --- | --- |
 | Membre A | Aya Sihadi | [@sihadi](https://github.com/sihadi) | |
-| Membre B | Khadija | [@JouichatKhadija](https://github.com/JouichatKhadija) | |
+| Membre B | JOUICHAT Khadija | [@JouichatKhadija](https://github.com/JouichatKhadija) | |
